@@ -1,0 +1,12 @@
+{
+  "name": "ghscrape",
+  "version": "1.0.0",
+  "description": "Get All The Emails From GitHub",
+  "main": "index.js",
+  "author": "Mubaris NK",
+  "license": "MIT",
+  "dependencies": {
+    "github-scraper": "^5.0.0",
+    "request": "^2.85.0"
+  }
+}
